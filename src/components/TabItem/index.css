@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.tab-list {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.button {
+  border: none;
+  outline: none;
+  color: #7b8794;
+  font-family: 'Bree Serif';
+  background-color: transparent;
+}
